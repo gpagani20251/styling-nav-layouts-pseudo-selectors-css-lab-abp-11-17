@@ -73,7 +73,7 @@ color: #0056b3;
   text-decoration: underline;
 }
 
-.questions {
+div.questions {
   padding-left: 20px;
   padding-right: 20px;
 }
