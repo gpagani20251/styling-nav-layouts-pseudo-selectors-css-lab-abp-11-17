@@ -76,6 +76,8 @@ color: #0056b3;
 div.questions {
   padding-left: 20px;
   padding-right: 20px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .questions h4 {
