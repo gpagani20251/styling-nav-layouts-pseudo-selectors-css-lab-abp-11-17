@@ -11,7 +11,7 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
-header nav { 
+header nav {
   float: right;
 }
 
@@ -66,7 +66,7 @@ footer{
 
 nav a:hover {
 text-decoration: underline;
-color: #0056b3; 
+color: #0056b3;
 }
 
 #icebreakers a:visited {
@@ -86,3 +86,17 @@ color: #0056b3;
   margin: 0 0 30px 0;
 }
 
+.btn {
+  border-radius: 5px;
+  color: #fff;
+  background-color: #007bff;
+  border-color: #077bff;
+  text-decoration: none;
+  padding: 18px;
+  font-size: 20px;
+}
+
+.btn a:hover {
+  background-color: #0069d9;
+  border-color: #0069d9;
+}
